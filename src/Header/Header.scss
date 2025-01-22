@@ -1,0 +1,8 @@
+$main-gap: 20px;
+
+.cv-header{
+    grid-area: header;
+    text-align: center;
+    padding: $main-gap;
+    background-color: rgb(255, 214, 32);
+}
